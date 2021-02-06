@@ -1,0 +1,1 @@
+Custom Colorscheme that doesn't hurt my eyes when I look at it
